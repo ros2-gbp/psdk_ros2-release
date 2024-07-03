@@ -2,6 +2,9 @@
 Changelog for package psdk_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.3.1 (2024-07-03)
+------------------
+
 1.3.0 (2024-05-31)
 ------------------
 * Separate each module with an individual thread
